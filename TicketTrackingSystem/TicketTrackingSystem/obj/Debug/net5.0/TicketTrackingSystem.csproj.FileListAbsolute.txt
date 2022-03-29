@@ -1,0 +1,7 @@
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.AssemblyInfo.cs
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Wesker\source\repos\TicketTrackingSystem\TicketTrackingSystem\obj\Debug\net5.0\TicketTrackingSystem.MvcApplicationPartsAssemblyInfo.cache
